@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://biblewelove.github.io/2023/03/07/20230307013831/</loc>
+    
+    <lastmod>2023-03-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://biblewelove.github.io/2023/03/07/20230307013819/</loc>
+    
+    <lastmod>2023-03-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://biblewelove.github.io/2023/03/06/20230306040001/</loc>
     
     <lastmod>2023-03-06</lastmod>
@@ -139,7 +157,7 @@
 
   <url>
     <loc>http://biblewelove.github.io/</loc>
-    <lastmod>2023-03-06</lastmod>
+    <lastmod>2023-03-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -147,14 +165,14 @@
   
   <url>
     <loc>http://biblewelove.github.io/tags/Psm/</loc>
-    <lastmod>2023-03-06</lastmod>
+    <lastmod>2023-03-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://biblewelove.github.io/tags/Gen/</loc>
-    <lastmod>2023-03-06</lastmod>
+    <lastmod>2023-03-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
