@@ -2,9 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://biblewelove.github.io/2025/07/23/hello-world/</loc>
+    <loc>https://biblewelove.github.io/2025/07/24/bible-geo-two/</loc>
     
-    <lastmod>2025-07-23</lastmod>
+    <lastmod>2025-07-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://biblewelove.github.io/2025/07/24/bible-geo-one/</loc>
+    
+    <lastmod>2025-07-24</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -31,12 +40,75 @@
 
   <url>
     <loc>https://biblewelove.github.io/</loc>
-    <lastmod>2025-07-23</lastmod>
+    <lastmod>2025-07-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
+  <url>
+    <loc>https://biblewelove.github.io/tags/%E5%9F%BA%E8%89%B2/</loc>
+    <lastmod>2025-07-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://biblewelove.github.io/tags/%E7%BA%A6%E6%97%A6%E6%B2%B3/</loc>
+    <lastmod>2025-07-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://biblewelove.github.io/tags/%E8%80%B6%E5%88%A9%E5%93%A5/</loc>
+    <lastmod>2025-07-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://biblewelove.github.io/tags/%E4%BC%AF%E7%A4%BA%E9%BA%A6/</loc>
+    <lastmod>2025-07-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://biblewelove.github.io/tags/%E4%BA%9A%E8%A5%BF%E5%8A%A0/</loc>
+    <lastmod>2025-07-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://biblewelove.github.io/tags/%E7%B1%B3%E5%90%89%E5%A4%9A/</loc>
+    <lastmod>2025-07-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://biblewelove.github.io/tags/%E8%BF%A6%E5%AF%86%E5%B1%B1/</loc>
+    <lastmod>2025-07-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://biblewelove.github.io/tags/%E6%8B%89%E5%90%89/</loc>
+    <lastmod>2025-07-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
+  
+  <url>
+    <loc>https://biblewelove.github.io/categories/%E5%9C%A3%E7%BB%8F%E5%9C%B0%E7%90%86/</loc>
+    <lastmod>2025-07-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 </urlset>
